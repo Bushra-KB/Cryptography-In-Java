@@ -17,3 +17,4 @@ When transmitting electronic data, the most common use of cryptography is to enc
    - In general
    - In cybersecurity
    - In Virtual money, blockchain, and cryptocurrency
+3. Other issues
