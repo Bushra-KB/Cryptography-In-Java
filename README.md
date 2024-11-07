@@ -31,6 +31,30 @@ When transmitting electronic data, the most common use of cryptography is to enc
 8. **SHA-256**
 9. **MD5**
 
+## Project Structure
+```
+java-crypto-algorithms/
+│
+├── README.md
+├── src/
+│   ├── main/
+│   │   └── java/
+│   │       └── crypto/
+│   │           ├── AES.java
+│   │           ├── DES.java
+│   │           ├── RSA.java
+│   │           ├── SHA.java
+│   │           ├── TripleDES.java
+│   │           ├── IDEA.java
+│   │           ├── ECC.java
+│   │           ├── SHA256.java
+│   │           └── MD5.java
+│   └── test/
+│       └── java/
+│           └── crypto/
+│               └── CryptoTest.java
+```
+
 ## Getting Started
 
 ### Prerequisites
