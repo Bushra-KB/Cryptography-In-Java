@@ -1,4 +1,6 @@
-# Cryptography-In-Java
+# Cryptography Algorithms in Java
+This repository contains implementations of various cryptographic algorithms in Java. It includes well-known algorithms such as AES, DES, RSA, SHA, Triple DES, IDEA, ECC, SHA-256, and MD5. Each algorithm is implemented in a clear and concise manner, making it easy to understand and use. This project aims to provide a practical resource for learning and applying cryptographic techniques in Java.
+
 ## Cryptography Tutorials and Implementations in Java
 ### What is Cryptography?
 Cryptography is the study of secure communications techniques that allow only the sender and intended recipient of a message to view its contents. The term is derived from the Greek word kryptos, which means hidden. It is closely associated to encryption, which is the act of scrambling ordinary text into what's known as ciphertext and then back again upon arrival. In addition, cryptography also covers the obfuscation of information in images using techniques such as microdots or merging. Ancient Egyptians were known to use these methods in complex hieroglyphics, and Roman Emperor Julius Caesar is credited with using one of the first modern ciphers.
@@ -17,4 +19,43 @@ When transmitting electronic data, the most common use of cryptography is to enc
    - In general
    - In cybersecurity
    - In Virtual money, blockchain, and cryptocurrency
-3. Other issues
+
+## Algorithms Implemented
+1. **Advanced Encryption Standard (AES)**
+2. **Data Encryption Standard (DES)**
+3. **RSA Algorithm (Rivest, Shamir, Adleman Algorithm)**
+4. **Secure Hash Algorithm (SHA)**
+5. **Triple Data Encryption Standard (Triple DES)**
+6. **International Data Encryption Algorithm (IDEA)**
+7. **Elliptic Curve Cryptography (ECC)**
+8. **SHA-256**
+9. **MD5**
+
+## Getting Started
+
+### Prerequisites
+
+- **Java Development Kit (JDK)**: Make sure you have JDK installed on your system. You can download it from oracle.com.
+- **Maven**: A build automation tool for Java projects. You can download it from maven.apache.org.
+
+### Installation
+Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/Bushra-KB/java-crypto-algorithms.git
+cd java-crypto-algorithms
+```
+## Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+Special thanks to the open-source community for their invaluable contributions and resources.
+
+```
+Bushra KM.
+Debre Berhan University, Ethiopia
+2019
+-----------
